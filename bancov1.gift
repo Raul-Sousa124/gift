@@ -1,0 +1,797 @@
+// Switch category to $course$/top/Exportar rcg1002 2022 patologia molecular
+//!!!!!! documentaçao=https://docs.moodle.org/all/es/Formato_GIFT
+$CATEGORY: $course$/top/Exportar rcg1002 2022 patologia molecular
+
+
+// question: 12287997  name: Doença de Fabry, mutações e atividade enzimática
+// [tag:Patologia Molecular] [tag:aparecida] [tag:mutações] [tag:Fabry] [tag:GLA] [tag:atividade enzimática]
+::Doença de Fabry, mutações e atividade enzimática::
+A doença de Fabry é uma doença
+que apresenta padrão de herança ligada ao cromossomo X causada 
+por um defeito enzimático, devido mutações no locus 
+<i>GLA </i>
+na região Xq21.33. É uma esfingolipidose e o tratamento inadequado e tardio pode levar o indivíduo à morte por falência em diferentes orgãos. Em uma pesquisa liderada por uma equipe brasileira foram analisados 568 indivíduos de 106 famílias com suspeita da doença e identificadas 38 
+variantes patogênicas no gene <i>GLA </i>em 51 das famílias analisadas.
+ A avaliação da atividade enzimática a partir de amostra do sangue periférico dos indivíduos correlacionou o nível da atividade da enzima alfa-galactosidase A com duas variantes patogênicas conforme tabela abaixo. Como classificá-las?
+ ![] (@@PLUGINFILE@@/figira%20tabela%20alelos.jpg)
+{
+    ~Mutações missense
+    ~Mutações nonsense
+    =Mutações missense e nonsense
+    ~Mutações missense e indel
+    ~Mutações silenciosa e missense
+    ####A156D é uma mutação missense e K237X é uma mutação nonsense.
+}
+
+// question: 12287997  name: Duchen e deleções
+//[tag:victor] [tag:Patologia Molecular]
+::Duchenne e deleções::
+Alterações na proteína distrofina, codificada pelo gene DMD localizado no cromossomo X causam um quadro de degeneração muscular e fraqueza progressiva em meninos.
+A distrofia muscular de Duchenne é a forma mais grave de distrofia muscular ligada ao gene DMD. A doença tem início durante a primeira infância.
+A distrofia muscular de Becker, também ligada ao gene DMD, tem quadro semelhante mas começa mais tarde, na adolescência, e causa sintomas mais brandos.
+Abaixo você encontra um gráfico com algumas das deleções mais comuns encontradas em ambas as doenças. O que podemos depreender da análise deste gráfico?
+{
+    =Deleções de poucos exons podem causar quadros graves se mudarem a fase de leitura
+    ~Quanto maior a deleção mais grave será o quadro da distrofia muscular
+    ~Quanto menor a deleção menos grave será o quadro da distrofia muscular
+    ~Deleções com manutenção da fase de leitura não causam casos graves
+}
+
+// question: 12287999  n ame: Mutação Sem Sentido
+// [tag:Patologia Molecular] [tag:facil] [tag:fa]
+::Mutação Sem Sentido::
+Tipo de mutação em que pode ocorrer a troca de uma 
+base numa uma sequência de DNA que resulta em um códon de parada prematuro no mRNA transcrito e em uma produção proteica 
+truncada, incompleta e geralmente não funcional 
+{
+    =mutação sem sentido #Sim! Exatamente isso!
+    ~mutação silenciosa
+    #Não, as mutações silenciosas são aquelas em que a traca de bases não muda o aminoácido codificado, pois o código genético é degenerado, ou seja, existe mais de um tipo de códon para um mesmo aminoácido.
+    ~mutação de mudança de fase de leitura
+    #Não, nesse tipo de mutação ocorre a deleção ou inserção de bases, em número diferente de multiplos de 3, ocasionando em uma mudança de como as bases são lidas a partir daí, alterando todos os codons a frente e, portanto, os aminoácidos codificados
+    ~mutação de ganho de função
+    #Não, mutações de ganho de função são aquelas em que existe aumento da função da proteína codificada. Isso pode vir de qualquer fenomeno
+    ~mutação cromossômica
+    #Não, as mutações cromossômicas são grandes rearranjos nas sequências de DNA (perdaso ou ganhos), em geral afetando diversos genes.
+}
+
+//question: 12288000  name: Mutação Nossense
+//[tag:facil] [tag:fa] [tag:Patologia Molecular]
+::Mutação Sem Sentido ::
+Tipo de mutação em que pode ocorrer a troca de uma base numa uma sequência de DNA que resulta em um códon de parada prematuro no mRNA transcrito e em uma produção proteica truncada, incompleta e geralmente não funcional.
+{
+    =mutação sem sentido
+    #Sim! Exatamente isso!
+    ~mutação silenciosa
+    #Não... as mutações silenciosas são aquelas em que a traca de bases não muda o aminoácido codificado, pois o código genético é degenerado, ou seja, existe mais de um tipo de códon para um mesmo aminoácido.
+    ~mutação de mudança de fase de leitura
+    #Não...nesse tipo de mutação ocorre a deleção ou inserção de bases, em número diferente de multiplos de 3, ocasionando em uma mudança de como as bases são lidas a partir daí, alterando todos os codons a frente e, portanto, os aminoácidos codificados
+    ~mutação de ganho de função
+    #Não... mutações de ganho de função são aquelas em que existe aumento da função da proteína codificada. Isso pode vir de qualquer fenomeno
+    ~mutação cromossômica
+    #Não, as mutações cromossômicas são grandes rearranjos nas sequências de DNA (perdaso ou ganhos), em geral afetando diversos genes.
+}
+
+// question: 12288002
+// [tag:media] [tag:Patologia Molecular]
+::Mutação de sentido trocado:: 
+Sobre as mutações de sentido trocado é INCORRETO afirmar que ...
+{
+    ~A chance de ser patogênicas é maior quando mudam um aminoácido em um domínio funcional importante da proteína.
+    #Não! Está absolutamente correta a frase. Mudanças de aminoácidos em domínios importantes para a função da proteína tem mais chance de diminuir ou ate mesmo abolir a função dela.
+    =Se ao observar em diferentes espécies uma grande variação na composição de bases nesta mesma posição no DNA, é maior a chance de ser patogênica.#Sim! Você está certx! Esta é a incorreta. Se a substituição do aa for em região conservada na mesma espécie ou família gênica é maior a chance de uma mutação encontrada ser patogênica.
+    ~Substituição de aminoácidos com características muito diferentes (polar por não polar, ácido por básico) devem ser patogênicos
+    #Não! Está absolutamente correta a frase.
+    ~Nem toda mutação de sentido trocado causa um problema funcional na proteína
+    #Não! Está absolutamente correta a frase. Mudanças de aminoácidos com características fisico-químicas semelhantes ou em locais em que nãos ejam críticos para a função nem sempre acarretam problemas para a proteína
+    ~Quando causam problema na proteína pode ser tanto por ganho de função quanto perda de função
+    #Não! A frase está correta. As variantes de DNA de sentido trocado, quando alteram a função proteica podem ser por perda de função, que é mais frequente) ou por ganho de função (menos frequente e mais específica)
+}
+
+// question: 12288003
+// [tag:media] [tag:Patologia Molecular]
+::mutações de sentido trocado::
+Sobre as mutações de sentido trocado é INCORRETO afirmar que
+{
+    ~A chance de ser patogênicas é maior quando mudam um aminoácido em um domínio funcional importante da proteína.
+    #Não! Está absolutamente correta a frase. Mudanças de aminoácidos em domínios importantes para a função da proteína tem mais chance de diminuir ou ate mesmo abolir a função dela.
+    =Se ao observar em diferentes espécies uma grande variação na composição de bases nesta mesma posição no DNA, é maior a chance de ser patogênica.
+    #Sim! Você está certx! Esta é a incorreta. Se a substituição do aa for em região conservada na mesma espécie ou família gênica é maior a chance de uma mutação encontrada ser patogênica.
+    ~Substituição de aminoácidos com características muito diferentes (polar por não polar, ácido por básico) devem ser patogênicos
+    #Não! Está absolutamente correta a frase.
+    ~Nem toda mutação de sentido trocado causa um problema funcional na proteína
+    #Não! Está absolutamente correta a frase. Mudanças de aminoácidos com características fisico-químicas semelhantes ou em locais em que nãos ejam críticos para a função nem sempre acarretam problemas para a proteína
+    ~Quando causam problema na proteína pode ser tanto por ganho de função quanto perda de função#Não! A frase está correta. As variantes de DNA de sentido trocado, quando alteram a função proteica podem ser por perda de função, que é mais frequente) ou por ganho de função (menos frequente e mais específica)
+}
+
+// question: 12288005  name: Patologia Molecular frame-shift
+// [tag:Patologia Molecular] [tag:dificil]
+::Patologia Molecular frame-shift::
+Um tipo de mutação gênica resultante da inserção ou deleção de nucleotídeos que altera a sequencia de aminoácidos a partir do ponto em que ocorreu, muitas vezes gerando um codon de término a frente é conhecida por?
+{
+    =mutação de mudança de fase de leitura
+    #Sim!
+    ~mutação sem sentido
+    #Não! As mutações sem sentido são aquelas em que a alteração de uma base gerou um códon de parada de leitura.
+    ~mutação de sentido trocado
+    #Não! As mutações de sentido trocado são aquelas em que a mudança de uma base para outra base transforma o códon em que se insere, codificando um aminoácido diferente.
+    ~mutação silenciosa
+    #Não! As mutações silenciosas são aquelas em que a mudança da base modifica o códon mas ele continua codificando o mesmo aminoácido que o códon codificava antes da mutação
+    ~mutação em fase de leitura
+    #Não! as mutações em fase de leitura ocorrem quando insere-se ou retira-se um número multiplo de 3 bases, deletando ou adicionando um aminoácido na proteína mas não modificando a fase de leitura
+}
+
+// question: 12288008  name: Variante com frequencia acima de 5%
+// [tag:victor] [tag:classificação de variantes] [tag:Patologia Molecular]
+::Variante com frequencia acima de 5%::
+A detecção, em um paciente com suspeita de câncer familiar, de uma variante de sentido trocado em um gene relacionado a cancer, em uma posição não conservada entre as espécies e com frequência populacional de 6%, favorece a hipótese de que ela seja patogênica.
+{FALSE#Alterações em regiões não conservadas não sugerem que a variante seja patogênica, porque existe variação entre as espécies, o que não ocorreria se fosse patogênica. A frequência populacional acima de 5% sugere que seja um polimorfismo, que não dá força para ser um determinante maior do fenótipo.}
+
+$CATEGORY: $course$/BFM II/Citogenetica
+
+//ID:c1 Citogenética [tag:facil]
+::Estudos dos cromossomos:: 
+Qual é o nome dado ao estudo dos cromossomos em uma célula? 
+{
+	= Citogenética
+    #Correto! A citogenética é o estudo dos cromossomos em uma célula.
+	~ Biologia Celular
+    #Incorreto. A biologia celular estuda a estrutura e função das células.
+	~ Genética Molecular
+    #Incorreto. A genética molecular estuda os processos moleculares que regulam a hereditariedade.
+	~ Ecologia
+    #Incorreto. A ecologia estuda as interações dos organismos com seu ambiente.
+}
+
+//ID:c3 Citogenética [tag:aula][tag:facil]
+::Translocação cromossômica::
+O que é uma translocação cromossômica? 
+{
+	~ Troca de segmentos entre cromátides irmãs durante a meiose
+    #Incorreto. Isso descreve um evento de recombinação genética durante a meiose, não uma translocação cromossômica.
+	~ Uma duplicação cromossômica
+    #Incorreto. Uma duplicação cromossômica é um evento diferente.
+	= Movimento de parte de um cromossomo para outro não homólogo
+    #Correto! Uma translocação cromossômica envolve a troca de partes de cromossomos entre cromossomos não homólogos.
+	~ Desintegração de um cromossomo
+    #Incorreto. Isso descreve um evento de fragmentação cromossômica, não uma translocação.
+}
+
+//ID:c4[tag:aula] [tag:dificil]
+::Estudo de caso:: Andrew, 5 anos, tem diagnóstico de síndrome de Down desde o nascimento. Os pais estão pensando em ter outro filho. O cariótipo do filho mostrou uma translocação entre os dois cromossomos 21 e um cromossomo 21 a mais. Os pais também fizeram o cariótipo e o pai é o portador da translocação. A mãe tem cariótipo normal.
+Responda as questões abaixo\:\n 
+1. Qual a segregação dos gametas do pai e as possibilidades de prole viável e inviável?\n
+2. Qual o laudo dos cariótipos do pai e do filho com síndrome de Down?\n 
+3. Qual o risco do casal ter um filho com síndrome de Down? {}
+
+//Citogenetica [tag:media]
+::Aneuploidia::
+Qual é o tipo de anomalia cromossômica caracterizada por ter um cromossomo a mais ou a menos em relação ao cariótipo normal?
+{
+    =A) Aneuploidia #Certo! Aneuploidia é a presença de um número anormal de cromossomos em uma célula.
+    ~B) Euploidia #Errado! Euploidia refere-se a um conjunto completo de cromossomos.
+    ~C) Monossomia #Errado! Monossomia é um tipo específico de aneuploidia onde falta um cromossomo.
+    ~D) Trissomia #Errado! Trissomia é um tipo específico de aneuploidia onde há um cromossomo extra.
+}
+
+//Citogenetica [tag:media]
+::Síndrome de Turner::
+Qual é a síndrome cromossômica caracterizada por baixa estatura, pescoço curto e alado, linfedema nas mãos e pés, sobra de pele na nuca, hipertelorismo mamilar, valgismo cubital, déficit de aprendizagem e amenorréia primária?
+{
+    =A) Síndrome de Turner #Certo! A Síndrome de Turner é caracterizada por essas características físicas e clínicos.
+    ~B) Síndrome de Klinefelter #Errado! A Síndrome de Klinefelter é caracterizada por um conjunto diferente de sintomas, incluindo ginecomastia e hipogonadismo.
+    ~C) Síndrome de Down #Errado! A Síndrome de Down é caracterizada por trissomia do cromossomo 21 e apresenta outros sintomas.
+    ~D) Síndrome de Patau #Errado! A Síndrome de Patau é caracterizada por trissomia do cromossomo 13 e apresenta sintomas diferentes.
+}
+
+//Citogenetica [tag:media]
+::Translocação Recíproca::
+A translocação recíproca é um tipo de anomalia cromossômica que envolve a perda ou ganho de genes.
+{
+    FALSE #Certo! A translocação recíproca envolve a troca de segmentos entre dois cromossomos sem perda ou ganho de genes.
+}
+
+//Citogenetica [tag:media]
+::Microdeleção::
+Qual é o tipo de anomalia cromossômica que ocorre quando há uma perda ou ganho de um segmento cromossômico?
+{
+    ~A) Aneuploidia #Errado! Aneuploidia se refere a um número anormal de cromossomos.
+    ~B) Monossomia #Errado! Monossomia é um tipo específico de aneuploidia onde falta um cromossomo.
+    ~C) Trissomia #Errado! Trissomia é um tipo específico de aneuploidia onde há um cromossomo extra.
+    =D) Microdeleção #Certo! Microdeleção é a perda de um pequeno segmento de um cromossomo, resultando na perda de vários genes.
+}
+
+//Citogenetica [tag:media]
+::Síndrome de Down::
+A síndrome de Down é causada por uma translocação recíproca entre os cromossomos 21 e outro cromossomo.
+{
+    FALSE #Certo! A síndrome de Down é geralmente causada por trissomia do cromossomo 21.
+}
+
+//Citogenetica [tag:media]
+::Microdeleção (ganho/perda de genes)::
+Qual é o tipo de anomalia cromossômica que ocorre quando há uma perda ou ganho de mais de um gene?
+{
+    ~A) Aneuploidia #Errado! Aneuploidia se refere a um número anormal de cromossomos.
+    ~B) Monossomia #Errado! Monossomia é um tipo específico de aneuploidia onde falta um cromossomo.
+    ~C) Trissomia #Errado! Trissomia é um tipo específico de aneuploidia onde há um cromossomo extra.
+    =D) Microdeleção #Certo! Microdeleção refere-se à perda de um pequeno segmento de um cromossomo, resultando na perda de múltiplos genes.
+}
+
+
+$CATEGORY: $course$/BFM II/Epigenetica
+
+
+//ID:e1 Epigenética [tag:facil]
+::O que é Epigenética?::
+Qual é o termo utilizado para descrever as modificações químicas que ocorrem no DNA e nas histonas, alterando a expressão gênica sem mudar a sequência de DNA?
+{
+	= Epigenética
+    #Correto! A epigenética refere-se às modificações químicas no DNA e nas histonas que afetam a expressão gênica.
+	~ Genômica
+    #Incorreto. A genômica estuda a estrutura e função dos genomas.
+	~ Mutação
+    #Incorreto. As mutações são alterações na sequência de DNA.
+	~ Transcrição
+    #Incorreto. A transcrição é o processo de síntese de RNA a partir de uma molécula de DNA.
+}
+
+//ID:e2 Epigenética [tag:media]
+::Influência Ambiental na Epigenética::
+Como o ambiente pode influenciar os padrões epigenéticos em um organismo?
+{
+	~ Não tem influência sobre os padrões epigenéticos
+    #Incorreto. Os padrões epigenéticos podem ser influenciados por fatores ambientais.
+	= Fatores ambientais, como dieta, estresse e exposição a toxinas, podem alterar os padrões epigenéticos
+    #Correto! O ambiente pode modificar os padrões epigenéticos.
+	~ Apenas fatores genéticos determinam os padrões epigenéticos
+    #Incorreto. Fatores ambientais também desempenham um papel importante.
+	~ Todos os organismos têm os mesmos padrões epigenéticos independentemente do ambiente em que vivem
+    #Incorreto. Os padrões epigenéticos podem variar dependendo do ambiente.
+}
+
+//ID:e3 Epigenética [tag:dificil]
+::Imprinting Epigenético::
+Explique o fenômeno da "imprinting" epigenética.
+{
+	~ É o mesmo que metilação do DNA
+    #Incorreto. Embora a metilação do DNA seja uma forma de modificação epigenética, não é o mesmo que imprinting epigenético.
+	~ Refere-se à regulação da expressão gênica por fatores ambientais
+    #Incorreto. Imprinting epigenético refere-se à expressão diferencial de genes dependendo de sua herança materna ou paterna.
+	= É um processo epigenético em que certos genes são expressos de forma diferente dependendo de sua herança materna ou paterna
+    #Correto! O imprinting epigenético envolve a expressão diferencial de genes herdados de maneira específica da mãe ou do pai.
+	~ Ocorre apenas em células somáticas
+    #Incorreto. O imprinting epigenético pode ocorrer em células germinativas e em células somáticas.
+}
+
+//ID:e4 Epigenética [tag:aula]
+::Expressão alelica::
+Você descobre um novo gene, mas quando vai analisar a expressão do mesmo em células do fígado, verifica que apenas o alelo paterno é expresso, em todos os indivíduos da população normal que você avaliou. Qual o possível processo envolvido nesse caso?
+{ 
+    =imprinting genômico #Certo! O imprinting genômico é um fenômeno onde apenas um dos alelos parentais é expresso enquanto o outro é silenciado, dependendo da sua origem parental.
+    ~dissomia uniparental #Errado! A dissomia uniparental ocorre quando ambos os cromossomos de um par são herdados de um único progenitor, o que não explica a expressão de apenas um alelo parental em uma população normal.
+    ~inativação do cromossomo X #Errado! A inativação do cromossomo X é um processo que ocorre em fêmeas de mamíferos para compensar a diferença de dose gênica entre machos e fêmeas, não estando relacionado à expressão de alelos parentais específicos em genes autossômicos.
+    ~monossomia #Errado! Monossomia é a ausência de um cromossomo de um par, o que geralmente resulta em doenças genéticas graves e não explica a expressão de apenas um alelo parental.
+}
+
+//ID:e5 [tag:aula]
+::Diferenças entre gemeos::
+Você trabalha como médico legista de uma cidade do interior do Paraná, onde acaba de ocorrer um crime e havia sangue do assassino local, do qual conseguiu a extração de DNA. No entanto, o provável assassino tem um irmão gêmeo monozigótico. Qual a sua indicação de exame que seria o melhor para verificar de qual irmão é o sangue coletado no local do crime?
+{
+    =análise de metilação do DNA #Certo! A análise de metilação do DNA pode detectar diferenças epigenéticas entre gêmeos monozigóticos, uma vez que a metilação pode variar entre eles devido a fatores ambientais e de desenvolvimento.
+    ~hibridação in situ por fluorescência (FISH) #Errado! A FISH é utilizada para identificar a presença ou ausência de sequências específicas de DNA e não é adequada para diferenciar entre gêmeos monozigóticos, que possuem DNA idêntico.
+    ~sequenciamento do DNA (exoma) #Errado! O sequenciamento do exoma é útil para identificar variações genéticas, mas gêmeos monozigóticos têm sequências de DNA quase idênticas, tornando este método ineficaz para diferenciá-los.
+    ~análise do cariótipo #Errado! A análise do cariótipo examina a estrutura e o número de cromossomos, sendo incapaz de distinguir entre gêmeos monozigóticos, que têm cariótipos idênticos.
+}
+
+//ID:e6 Epigenética [tag:media]
+::Modificações Epigenéticas e Mutações Genéticas::
+Qual é a principal diferença entre as modificações epigenéticas e as mutações genéticas, como descritas na apresentação?
+{
+    =A) As modificações epigenéticas são reversíveis, enquanto as mutações genéticas são irreversíveis. #Certo! As modificações epigenéticas podem ser revertidas, enquanto as mutações genéticas, que alteram a sequência do DNA, são permanentes.
+    ~B) As modificações epigenéticas afetam a sequência do DNA, enquanto as mutações genéticas não. #Errado! As mutações genéticas afetam a sequência do DNA, enquanto as modificações epigenéticas não alteram a sequência do DNA.
+    ~C) As modificações epigenéticas são herdáveis, enquanto as mutações genéticas não. #Errado! Tanto modificações epigenéticas quanto mutações genéticas podem ser herdáveis.
+    ~D) As modificações epigenéticas são causadas por alterações na sequência do DNA, enquanto as mutações genéticas são causadas por modificações epigenéticas. #Errado! As mutações genéticas são causadas por alterações na sequência do DNA, e as modificações epigenéticas não alteram a sequência do DNA.
+}
+
+//ID:e7 Epigenética [tag:media]
+::CTCF e Imprinting Genômico::
+Qual é o papel do CTCF na regulação do imprinting genômico?
+{
+    =A) Regula a metilação do DNA. #Certo! O CTCF é um fator de ligação ao DNA que desempenha um papel crucial na regulação da metilação do DNA e no imprinting genômico.
+    ~B) Regula a expressão de genes. #Errado! Embora o CTCF possa influenciar a expressão gênica, seu papel mais específico no imprinting genômico está na regulação da metilação do DNA.
+    ~C) Regula a inativação do cromossomo X. #Errado! O CTCF não está diretamente envolvido na inativação do cromossomo X.
+    ~D) Regula a formação da ilha CpG. #Errado! O CTCF não regula diretamente a formação de ilhas CpG, mas pode influenciar a metilação nessas regiões.
+}
+
+//ID:e8 Epigenética [tag:media]
+::Reprodução Assistida e Imprinting Genômico::
+Como as tecnologias de reprodução assistida (IVF, ICSI, PGD) afetam o imprinting genômico?
+{
+    ~A) Aumentam a chance de síndromes de Beckwith-Wiedemann. #Errado! Embora haja algumas preocupações sobre possíveis impactos, a resposta correta é que essas tecnologias não afetam diretamente o imprinting genômico.
+    ~B) Diminuem a chance de síndromes de Silver-Russell. #Errado! A reprodução assistida não está comprovada como fator que diminui a incidência de síndromes de Silver-Russell.
+    =C) Não afetam o imprinting genômico. #Certo! As tecnologias de reprodução assistida não têm um impacto direto comprovado sobre o imprinting genômico.
+    ~D) Aumentam a chance de síndromes de Prader-Willi. #Errado! Não há evidências conclusivas de que essas tecnologias aumentem a chance de síndromes de Prader-Willi.
+}
+
+//ID:e9 Epigenética [tag:media]
+::Epigenética e Envelhecimento::
+Qual é a relação entre a epigenética e o envelhecimento, como discutida no estudo de Yang et al. (2023)?
+{
+    ~A) A epigenética é responsável pelo envelhecimento. #Errado! A epigenética é influenciada pelo envelhecimento, mas não é a causa única do processo de envelhecimento.
+    ~B) O envelhecimento é responsável pela epigenética. #Errado! O envelhecimento influencia a epigenética, mas não é o único fator.
+    =C) A epigenética é afetada pelo envelhecimento. #Certo! O estudo sugere que as mudanças epigenéticas são um resultado do processo de envelhecimento.
+    ~D) O envelhecimento não é afetado pela epigenética. #Errado! O envelhecimento e a epigenética estão inter-relacionados.
+}
+
+//ID:e10 Epigenética [tag:media]
+::XIST e Inativação do Cromossomo X::
+Qual é o papel da XIST no processo de inativação do cromossomo X?
+{
+    ~A) Regula a metilação do DNA. #Errado! O XIST não regula diretamente a metilação do DNA.
+    ~B) Regula a expressão de genes. #Errado! Embora XIST influencie a expressão gênica no cromossomo X inativado, seu papel principal é no processo de inativação.
+    =C) Regula a inativação do cromossomo X. #Certo! O XIST é crucial para a inativação do cromossomo X, envolvendo-se no processo de silenciamento desse cromossomo.
+    ~D) Regula a formação da ilha CpG. #Errado! O XIST não regula a formação de ilhas CpG.
+}
+
+//ID:e11 Epigenética [tag:media]
+::Teoria do Imprinting Genômico::
+Qual é a teoria que explica a relação entre o ambiente e o imprinting genômico?
+{
+    =A) Teoria do Conflito. #Certo! A Teoria do Conflito explica a relação entre o ambiente e o imprinting genômico, sugerindo que os genes de origem materna e paterna têm interesses conflitantes sobre o crescimento e desenvolvimento do feto.
+    ~B) Teoria da Herança. #Errado! A Teoria da Herança não aborda especificamente o imprinting genômico.
+    ~C) Teoria da Evolução. #Errado! Embora a Teoria da Evolução aborde muitos aspectos da genética, a Teoria do Conflito é mais específica para o imprinting genômico.
+    ~D) Teoria da Epigenética. #Errado! A Teoria da Epigenética abrange modificações epigenéticas, mas a Teoria do Conflito é mais específica para o imprinting genômico.
+}
+
+$CATEGORY: $course$/BFM II/Padrões de herança
+
+//ID:ph1 Pergunta sobre Doença Autossômica Dominante[tag:aula]
+::Doença Autossômica Dominante::
+Qual das seguintes opções descreve corretamente uma doença autossômica dominante?
+{
+	~ Apenas afeta indivíduos do sexo masculino.
+	~ Todos os descendentes de um indivíduo afetado também serão afetados.
+	~ Afeta apenas indivíduos que carregam dois alelos para a doença.
+	= Afeta indivíduos heterozigotos e homozigotos para o alelo mutado.
+}
+
+// Pergunta sobre Doença Autossômica Recessiva[tag:aula]
+::Doença Autossômica Recessiva::
+Qual das seguintes opções descreve corretamente uma doença autossômica recessiva?
+{   =A doença só se manifesta em indivíduos homozigotos para o alelo mutado.
+	~ A doença é mais comum em indivíduos heterozigotos.
+	~ A doença afeta apenas indivíduos do sexo feminino.
+	~ Todos os descendentes de um indivíduo afetado também serão afetados.
+}
+
+//ID:ph3
+::Variação entre os genes::
+Qual dos seguintes fatores NÃO é conhecido por causar variações na expressão dos genes?
+{
+    =Alterações na temperatura
+    #Na verdade, a temperatura não é um fator primário que causa variações na expressão dos genes.
+    ~Metilação do DNA
+    #Não, a metilação do DNA é um mecanismo epigenético que pode silenciar a expressão gênica.
+    ~Modificações de histonas
+    #Não, as modificações de histonas podem afetar a compactação do cromatina e, portanto, a acessibilidade dos genes para serem transcritos.
+    ~Ativação do promotor#
+    Não, a ativação do promotor é um passo crucial na transcrição de um gene.
+}
+
+//ID:ph4, facil
+::Penetrância::
+Qual das seguintes afirmações melhor define a penetrância genética?
+{
+    =É a proporção de indivíduos com um genótipo particular que realmente expressa o fenótipo esperado.
+    #Sim, essa é a definição correta de penetrância genética.
+    ~É a variação no fenótipo entre indivíduos com o mesmo genótipo.
+    #Não, isso descreve a expressividade, não a penetrância.
+    ~É a capacidade de um gene de produzir seu efeito independentemente da presença de outros genes.
+    #Não, isso descreve a dominância, não a penetrância.
+    ~É a presença de múltiplos efeitos fenotípicos a partir de uma única mutação gênica.
+    #Não, isso descreve a pleiotropia, não a penetrância.
+}
+
+//ID:ph5, media
+::Heterogeneidade genética::
+Qual das seguintes afirmações melhor define a heterogeneidade genética?
+{
+    =É a presença de diferentes mutações genéticas que causam a mesma doença ou traço fenotípico.
+    #Sim, essa é a definição correta de heterogeneidade genética.
+    ~É a variação no fenótipo entre indivíduos com o mesmo genótipo.
+    #Não, isso descreve a expressividade, não a heterogeneidade genética.
+    ~É a proporção de indivíduos com um genótipo particular que realmente expressa o fenótipo esperado.
+    #Não, isso descreve a penetrância, não a heterogeneidade genética.
+    ~É a presença de múltiplos efeitos fenotípicos a partir de uma única mutação gênica.
+    #Não, isso descreve a pleiotropia, não a heterogeneidade genética.
+}
+
+//ID:ph6 
+::Limitação de Sexo e Doença de Rendu-Osler-Weber::
+A Doença de Rendu-Osler-Weber, também conhecida como Telangiectasia Hemorrágica Hereditária, é uma doença autossômica dominante que apresenta penetrância incompleta e expressividade variável. No entanto, estudos têm mostrado que as mulheres afetadas pela doença tendem a apresentar sintomas mais graves do que os homens. Isso sugere que a Doença de Rendu-Osler-Weber é influenciada pelo sexo do indivíduo.
+{TRUE#Sim, isso é verdade. Embora a Doença de Rendu-Osler-Weber seja uma condição autossômica dominante, o sexo do indivíduo pode influenciar a expressão da doença. 
+#Na verdade, isso é incorreto. Embora a Doença de Rendu-Osler-Weber seja uma condição autossômica dominante, o sexo do indivíduo pode influenciar a expressão da doença. Estudos têm mostrado que as mulheres afetadas pela doença tendem a apresentar sintomas mais graves do que os homens.}
+
+
+//ID:ph7 [tag:media] [tag:aula]
+::Locais da mutação:: As repetições de trinucleotideos, cuja alteração em número pode acarretar doenças humanas podem estar localizadas em diferentes partes da estrutura dos gene.
+Associe a localização destas repetições às doenças abaixo relacionadas\:
+{
+    =DIstrofia Miotônica -> Região 3´ UTR
+    =Doença de Huntington -> Éxon
+    =Ataxia de Friedreich -> Íntron
+    =Síndrome do X Frágil -> Região 5´UTR
+}
+
+//ID:ph8 [tag:facil] [tag:aula]
+::Heteroplasmia e efeito limiar:: Nas doenças mitocondriais, o fenótipo clínico associado com a mutação germinativa ou somática não depende da proporção relativa de DNA mitocondrial alterado e normal em um determinado tecido, pois basta um DNA mitocondrial para que as manifestações clínicas da doença se manifeste {FALSE}
+
+//ID:ph9 [tag:aula]
+::Características do DNA::
+Quais das seguintes afirmativas sobre as características do DNA mitocondrial estão corretas? {
+    = É mais suscetível a mutações do que o DNA nuclear. #Correto! O DNA mitocondrial é mais suscetível a mutações do que o DNA nuclear.
+    = Não possui sequências repetitivas. #Isso mesmo! O DNA mitocondrial não possui sequências repetitivas.2,
+    ~ É linear e encontrado no núcleo da célula. #Na verdade, o DNA mitocondrial é circular e encontrado nas mitocôndrias, não no núcleo.
+    ~ Sofre recombinação genética durante a meiose. #Na verdade, o DNA mitocondrial é herdado apenas da mãe e não sofre recombinação genética.
+}
+
+//ID:ph10 [tag:media]
+::Síndrome do X-Frágil::
+Qual é a característica mais comum da síndrome do X-frágil?
+{
+    ~A) Déficit intelectual e distúrbio de comportamento. #Errado! Embora o déficit intelectual e distúrbios de comportamento sejam comuns, não são as únicas características da síndrome do X-frágil.
+    ~B) Face longa e orelhas de abano. #Errado! Face longa e orelhas de abano são características físicas da síndrome do X-frágil, mas não abrangem todas as características comuns.
+    ~C) Macrorquidismo póspuberal. #Errado! O macrorquidismo póspuberal é uma característica da síndrome do X-frágil, mas não a única.
+    =D) Todos os acima. #Certo! A síndrome do X-frágil frequentemente inclui déficit intelectual e distúrbios de comportamento, face longa e orelhas de abano, e macrorquidismo póspuberal, entre outras características.
+}
+
+//ID:ph11 [tag:media]
+::Mutações Dinâmicas::
+Qual é o fenômeno que ocorre quando há erros de pareamento na replicação do DNA, levando a um aumento no número de repetições?
+{
+    ~A) Replicação mais rápida. #Errado! A replicação mais rápida não necessariamente leva a um aumento no número de repetições.
+    ~B) Replicação mais lenta. #Errado! A replicação mais lenta não está diretamente relacionada ao aumento no número de repetições.
+    ~C) Erros de pareamento. #Errado! Embora os erros de pareamento possam ocorrer, eles não explicam completamente o aumento no número de repetições sem a falha subsequente no reparo.
+    =D) Falha no reparo por malpareamento. #Certo! A falha no reparo por malpareamento durante a replicação do DNA pode levar a um aumento no número de repetições, um fenômeno associado a mutações dinâmicas.
+}
+
+$CATEGORY: $course$/BFM II/Genetica de populações
+
+//[tag:genetica][tag:facil][tag:aula]
+::Seleção natural::
+Qual dos seguintes cenários ilustra melhor a seleção natural no contexto da evolução humana e da medicina?
+{
+    ~Os indivíduos de uma população apresentam maior suscetibilidade a doenças cardíacas devido a uma dieta rica em gorduras saturadas e açúcares. #Errado! Esse cenário ilustra um problema de saúde pública relacionado a hábitos alimentares, mas não envolve a seleção natural.
+    =Ao longo de gerações, os indivíduos com uma mutação genética que confere resistência à malária sobrevivem e reproduzem-se com mais sucesso nas regiões onde a doença é prevalente. #Certo! Este cenário descreve a seleção natural, onde a resistência à malária confere uma vantagem de sobrevivência e reprodução em ambientes onde a malária é comum.
+    ~Um grupo de humanos com características genéticas variadas apresenta taxas semelhantes de sobrevivência e reprodução, independentemente de sua composição genética. #Errado! Este cenário não ilustra a seleção natural, pois não há vantagem diferencial de sobrevivência e reprodução baseada em características genéticas.
+    ~Uma população humana desenvolve resistência a uma nova cepa de gripe devido a amplas campanhas de vacinação. #Errado! Este cenário descreve imunidade adquirida através de intervenções médicas (vacinação) e não pela seleção natural.
+}
+
+//[tag:genetica][tag:media][tag:aula]
+::Controle de antibióticos::
+O controle da venda e distribuição de antibióticos está relacionado à saúde pública e problemas relacionados a isso estão associados a um fator genético. Qual situação melhor justifica a necessidade desse controle?
+{
+    ~Altas taxas de transferência horizontal de genes entre bactérias, facilitando a disseminação de genes de resistência a antibióticos. #Certo! A transferência horizontal de genes permite que as bactérias compartilhem genes de resistência rapidamente, justificando a necessidade de controlar a distribuição de antibióticos para prevenir a disseminação de resistência.
+    =Pressão seletiva sobre as bactérias, favorecendo a sobrevivência de cepas resistentes e desenvolvimento de resistência ao antibiótico. #Certo! O uso indiscriminado de antibióticos aplica uma pressão seletiva que favorece a sobrevivência e proliferação de bactérias resistentes, justificando o controle rigoroso da venda e distribuição de antibióticos.
+    ~Tamanho populacional, aumentando o impacto da deriva genética nas frequências alélicas. #Errado! Embora o tamanho populacional possa afetar a deriva genética, esta não é a principal preocupação relacionada ao controle de antibióticos.
+    ~Padrões de desenvolvimento bacteriano que levam a uma variação genética diversificada. #Errado! A variação genética diversificada em si não justifica a necessidade de controle de antibióticos, mas sim a pressão seletiva e a transferência de genes de resistência.
+}
+
+//[tag:genetica][tag:media] [tag:aula]
+::Estudo de caso:: Mulher Rh negativo teve filho Rh positivo; casa-se novamente e pergunta qual é a probabilidade de que seu próximo filho seja Rh positivo. Considere que o alelo ‘d’ que condiciona o caráter Rh negativo tem frequência 0,26 e a população está em equilíbrio de Hardy-Weinberg. {}
+
+// Questões de Múltipla Escolha 
+//[tag:genetica][tag:media]
+::Premissas do Equilíbrio de Hardy-Weinberg::
+Qual é uma das premissas básicas do Equilíbrio de Hardy-Weinberg?
+{
+    ~A) Presença de fatores evolutivos constantes #Errado! O equilíbrio pressupõe a ausência de fatores evolutivos.
+    ~B) Frequências alélicas variáveis ao longo das gerações #Errado! As frequências devem permanecer constantes na ausência de fatores evolutivos.
+    =C) Frequências alélicas constantes na ausência de fatores evolutivos #Certo! Esta é uma das principais premissas do Equilíbrio de Hardy-Weinberg.
+    ~D) Mudança constante nas frequências genotípicas #Errado! As frequências genotípicas também devem permanecer constantes em equilíbrio.
+}
+
+//[tag:genetica][tag:media]
+::Fatores Evolutivos - Deriva Genética::
+Qual fator evolutivo pode causar uma mudança significativa nas frequências alélicas de uma população devido a eventos aleatórios, especialmente em populações pequenas?
+{
+    ~A) Mutação #Errado! As mutações ocorrem de maneira aleatória e geralmente têm um efeito pequeno nas frequências alélicas.
+    ~B) Seleção natural #Errado! A seleção natural tende a favorecer alelos que conferem uma vantagem adaptativa.
+    ~C) Migração #Errado! A migração envolve a troca de genes entre populações.
+    =D) Deriva genética #Certo! A deriva genética pode causar grandes mudanças nas frequências alélicas em pequenas populações devido a eventos aleatórios.
+}
+
+// Questões de Relacionar
+//[tag:genetica][tag:media]
+::Fatores Evolutivos - Relacionar::
+Relacione os fatores evolutivos com suas respectivas descrições\:
+{
+    =Mutação -> Alteração no DNA que é aleatória em relação ao seu efeito
+    =Seleção Natural ->  Supervivência diferencial e reprodução de indivíduos com base em suas características
+    =Migração -> Movimento de genes entre populações
+    =Deriva Genética -> Mudança aleatória nas frequências alélicas
+}
+
+//[tag:genetica][tag:media]
+::Conceitos de Hardy-Weinberg - Relacionar::
+Relacione os conceitos de Equilíbrio de Hardy-Weinberg com as suas definições\:
+{
+    =Panmixia -> Cruzamento aleatório entre indivíduos de uma população
+    =Frequências genotípicas esperadas ->  p², 2pq e q²
+    =Frequências alélicas -> Frequências constantes ao longo das gerações na ausência de fatores evolutivos
+    =Heterozigose esperada -> Diversidade genética em uma população
+}
+
+// Questões de Verdadeiro ou Falso
+::Seleção Natural e Frequências Alélicas::
+A seleção natural pode provocar grandes alterações nas frequências alélicas de uma geração para outra.
+{
+    FALSE #Certo! A seleção natural tem um efeito muito pequeno de uma geração para outra para ser notada.
+}
+
+//[tag:genetica][tag:media]
+::Testando o Equilíbrio de Hardy-Weinberg::
+Para testar se uma população está em equilíbrio de Hardy-Weinberg, é necessário que as frequências genotípicas observadas sejam estatisticamente iguais às frequências genotípicas esperadas.
+{
+    TRUE #Certo! As frequências genotípicas observadas devem ser comparadas com as frequências esperadas para determinar se uma população está em equilíbrio.
+}
+
+// Estudo de Caso 1
+::Estudo de Caso - Síndrome de Turner::
+Uma paciente de 15 anos de idade apresenta baixa estatura, pescoço curto e alado, linfedema nas mãos e pés, sobra de pele na nuca, hipertelorismo mamilar, valgismo cubital, déficit de aprendizagem e amenorréia primária. Baseado nesses sintomas, qual é a suspeita diagnóstica? Descreva o cariótipo esperado e a explicação para esses sintomas.
+{}
+
+// Estudo de Caso 2
+::Estudo de Caso - Anemia Falciforme::
+Um paciente de 8 anos de idade é trazido ao hospital com dor intensa nos ossos e fadiga. A história familiar revela que ambos os pais são portadores do traço falciforme. Após exames laboratoriais, é diagnosticada a anemia falciforme. Explique a base genética dessa condição, o mecanismo pelo qual causa os sintomas e o motivo pelo qual os portadores do traço falciforme têm uma vantagem seletiva contra a malária.
+{}
+
+$CATEGORY: $course$/BFM II/Farmacogenetica
+
+//[tag:genetica][tag:facil][tag:aula]
+::Familia gênica::
+Qual gene ou família gênica é especialmente importante para o metabolismo de diversos medicamentos? Esse farmacogene está relacionado à farmacocinética ou à farmacodinâmica?
+{
+    ~HLA-B e está associado com farmacodinâmica #Errado! O HLA-B é um gene importante para reações adversas a medicamentos, especialmente na farmacodinâmica, mas não é o principal gene relacionado ao metabolismo de diversos medicamentos.
+    ~HLA-B e está associado com farmacocinética #Errado! O HLA-B está mais relacionado à farmacodinâmica do que à farmacocinética.
+    =Citocromo P450 e está associado com farmacocinética #Certo! Os genes da família Citocromo P450 são cruciais para o metabolismo de muitos medicamentos e estão diretamente relacionados à farmacocinética, que envolve a absorção, distribuição, metabolismo e excreção de medicamentos.
+    ~Citocromo P450 e está associado com farmacodinâmica #Errado! Embora o Citocromo P450 seja importante para o metabolismo de medicamentos, ele está associado à farmacocinética, não à farmacodinâmica.
+}
+
+//[tag:genetica][tag:facil][tag:aula]
+::Stevens Johnson::
+Qual gene ou família gênica é especialmente importante e pode estar associado à Síndrome de Stevens-Johnson? Esse farmacogene está associado à farmacocinética ou à farmacodinâmica?
+{
+    ~Citocromo P450 e está associado com farmacocinética #Errado! O Citocromo P450 está principalmente envolvido no metabolismo de medicamentos e não tem uma associação conhecida com a Síndrome de Stevens-Johnson.
+    ~Citocromo P450 e está associado com farmacodinâmica #Errado! O Citocromo P450 está mais associado à farmacocinética do que à farmacodinâmica, e não tem uma relação direta com a Síndrome de Stevens-Johnson.
+    =HLA-B e está associado com farmacodinâmica #Certo! O gene HLA-B, especificamente certos alelos como HLA-B*1502, está associado à Síndrome de Stevens-Johnson e outras reações adversas a medicamentos, sendo parte da farmacodinâmica.
+    ~HLA-B e está associado com farmacocinética #Errado! O HLA-B está mais associado à farmacodinâmica do que à farmacocinética, e é importante para reações adversas a medicamentos, incluindo a Síndrome de Stevens-Johnson.
+}
+
+//[tag:genetica][tag:facil]
+::Variabilidade Farmacodinâmica::
+O que a variabilidade farmacodinâmica se refere?
+{
+    ~Variações nos níveis de enzimas hepáticas #Errado! Isso se refere à variabilidade farmacocinética.
+    ~Diferenças na absorção de medicamentos #Errado! Isso se refere à variabilidade farmacocinética.
+    =Variações na resposta do paciente aos medicamentos #Certo! A variabilidade farmacodinâmica se refere às diferenças na resposta de um paciente aos efeitos de um medicamento, que podem ser influenciadas por fatores genéticos, fisiológicos e outros.
+    ~Flutuações nos níveis de glicose no sangue #Errado! Isso se refere à regulação dos níveis de glicose no sangue, não à variabilidade farmacodinâmica.
+}
+
+//[tag:genetica][tag:media]
+::Questão sobre enzima hepática::
+Qual é o nome da enzima hepática que metaboliza muitos medicamentos e apresenta variações genéticas significativas? Ela é responsável por converter pró-fármacos em suas formas ativas.
+{
+    =A. CYP2D6 #Certo! A enzima hepática CYP2D6 é conhecida por metabolizar muitos medicamentos e apresentar variações genéticas significativas. Ela converte pró-fármacos em suas formas ativas.
+    ~B. CYP3A4 #Errado! Embora o CYP3A4 seja uma enzima hepática importante no metabolismo de medicamentos, a descrição da pergunta se encaixa melhor com a CYP2D6.
+    ~C. CYP1A2 #Errado! O CYP1A2 é outra enzima hepática importante no metabolismo de medicamentos, mas não apresenta variações genéticas tão significativas quanto a CYP2D6.
+    ~D. CYP2C9 #Errado! Embora o CYP2C9 seja uma enzima hepática importante no metabolismo de medicamentos, não é conhecido por apresentar variações genéticas tão significativas quanto a CYP2D6.
+}
+
+// Questões de Múltipla Escolha
+//[tag:media]
+::Objetivo da Farmacogenética::
+Qual é o principal objetivo da farmacogenética?
+{
+    ~Identificar novos medicamentos#Incorreto\: Embora a farmacogenética possa contribuir para o desenvolvimento de novos medicamentos, não é seu principal objetivo.
+    =Analisar variações no genoma para personalizar tratamentos#Correto\: A farmacogenética visa entender como as variações genéticas influenciam a resposta aos medicamentos para personalizar os tratamentos.
+    ~Estudar a interação entre medicamentos e alimentos#Incorreto\: Este é um campo de estudo diferente, não diretamente relacionado ao objetivo principal da farmacogenética.
+    ~Reduzir os custos de produção de medicamentos#Incorreto\: Embora possa ter esse efeito indireto, não é o principal objetivo da farmacogenética.
+}
+
+//[tag:media]
+::Enzima do Citocromo P450 e Diazepam::
+Qual enzima do citocromo P450 está associada à sedação prolongada pelo diazepam devido a polimorfismos?
+{
+    ~CYP1A2#Incorreto\: Esta enzima não está associada à metabolização do diazepam.
+    ~CYP2C9#Incorreto\: Embora importante, esta não é a enzima associada à sedação prolongada pelo diazepam.
+    =CYP2C19#Correto\: Polimorfismos nesta enzima podem levar à sedação prolongada pelo diazepam.
+    ~CYP2D6#Incorreto\: Esta não é a enzima associada à sedação prolongada pelo diazepam.
+}
+
+//[tag:media]
+::Polimorfismo da CYP2D6 e Reações Adversas::
+Qual das seguintes reações adversas está associada ao polimorfismo da CYP2D6?
+{
+    ~Hemorragia causada pela varfarina#Incorreto\: Embora importante, esta não é uma reação adversa associada ao polimorfismo da CYP2D6.
+    ~Sedação prolongada pelo diazepam#Incorreto\: Embora importante, esta não é uma reação adversa associada ao polimorfismo da CYP2D6.
+    =Taquicardia causada pelo metoprolol#Correto\: Polimorfismos nesta enzima podem influenciar a metabolização do metoprolol, levando a taquicardia em alguns pacientes.
+    ~Leucemia causada por epidofolotoxinas#Incorreto\: Esta não é uma reação adversa associada ao polimorfismo da CYP2D6.
+}
+
+// Questões de Verdadeiro ou Falso
+//[tag:media]
+::Eficácia dos Medicamentos::
+A farmacogenética visa apenas aumentar a eficácia dos medicamentos. {FALSE#Incorreto\: A farmacogenética busca também maximizar a segurança e minimizar reações adversas.}
+
+//[tag:media]
+::Polimorfismos e Farmacocinética::
+Polimorfismos genéticos não afetam a farmacocinética de medicamentos. {FALSE#Incorreto\: Os polimorfismos genéticos podem afetar a absorção, metabolismo e excreção de medicamentos no corpo.
+}
+
+// Questão de Relacionar
+//[tag:media]
+::Polimorfismos das Enzimas e Reações Adversas::
+Relacione os polimorfismos das enzimas do citocromo P450 às reações adversas associadas\:
+{
+    =CYP1A2 -> Discinesia tardia por antipsicóticos
+    =CYP2C9 -> Hemorragia pela varfarina
+    =CYP2D6 -> Taquicardia pelo metoprolol
+}
+
+//[tag:media]
+::Papel dos Polimorfismos::
+Qual é o papel dos polimorfismos genéticos no metabolismo de medicamentos?
+{
+    ~Não têm impacto no metabolismo #Errado! Os polimorfismos genéticos podem ter um impacto significativo no metabolismo de medicamentos.
+    ~Aumentam a toxicidade dos medicamentos #Errado! Os polimorfismos genéticos podem aumentar ou diminuir a toxicidade dos medicamentos, dependendo do medicamento e do polimorfismo específico.
+    =Influenciam a eficácia dos medicamentos #Certo! Os polimorfismos genéticos podem influenciar a eficácia dos medicamentos, afetando sua absorção, metabolismo, distribuição e resposta farmacodinâmica.
+    ~Causam alergias a medicamentos #Errado! Os polimorfismos genéticos podem contribuir para alergias a medicamentos, mas este não é o único papel deles no metabolismo de medicamentos.
+}
+
+//[tag:genetica][tag:media]
+::Caso:: Imagine que você já é um médico e está prestes a prescrever um medicamento para um paciente. No entanto, você sabe que a farmacogenética pode influenciar a resposta individual aos medicamentos. 
+Como você abordaria essa situação para otimizar o tratamento do paciente? Quais seriam seus objetivos ao considerar a variabilidade genética do paciente? {}
+
+//[tag:genetica][tag:facil]
+::Questão sobre fatores intrínsecos::
+Quais dos seguintes fatores intrínsecos podem influenciar a resposta de uma pessoa a um medicamento?
+{
+    =Composição genética #Certo! A composição genética de uma pessoa pode influenciar significativamente a sua resposta a medicamentos devido aos polimorfismos genéticos que afetam o metabolismo, a absorção e a resposta farmacodinâmica.
+    ~Consumo excessivo de café #Errado! O consumo de café não é um fator intrínseco que afeta diretamente a resposta a medicamentos.
+    ~Altura da pessoa #Errado! A altura de uma pessoa não é um fator intrínseco que afeta diretamente a resposta a medicamentos.
+    ~Exposição à luz solar #Errado! A exposição à luz solar não é um fator intrínseco que afeta diretamente a resposta a medicamentos.
+}
+
+$CATEGORY: $course$/BFM II/Hemoglobinopatias
+
+//[tag:facil][tag:aula]
+::Questão 1::
+A hemoglobina é uma proteína crucial nos glóbulos vermelhos, responsável pelo transporte de oxigênio. Qual das seguintes afirmações descreve corretamente a estrutura da hemoglobina?
+{
+    ~A hemoglobina é composta por duas cadeias polipeptídicas alfa e duas gama, cada uma com um grupo heme, em adultos. #Errado! Esta opção incorretamente descreve a estrutura da hemoglobina fetal, que tem duas cadeias alfa e duas gama.
+    ~A hemoglobina é composta por uma única cadeia polipeptídica dobrada em torno de um grupo heme. #Errado! Esta descrição se aplica à estrutura da mioglobina, não da hemoglobina.
+    ~A hemoglobina consiste em quatro cadeias polipeptídicas beta, cada uma associada a uma molécula de ferro. #Errado! Esta descrição não corresponde à estrutura da hemoglobina.
+    =A hemoglobina consiste em duas cadeias polipeptídicas alfa e duas beta, cada uma ligada a um grupo heme. #Certo! A estrutura da hemoglobina é composta por duas cadeias alfa e duas cadeias beta, cada uma ligada a um grupo heme, permitindo o transporte de oxigênio.
+}
+
+//[tag:facil][tag:aula]
+::Questão 2::
+Indivíduos heterozigotos para a mutação falciforme (portadores do traço falciforme) apresentam vantagem seletiva em determinados ambientes. Qual é essa vantagem?
+{
+    ~Maior resistência física e desempenho atlético #Errado! O traço falciforme não está diretamente relacionado a uma maior resistência física ou desempenho atlético.
+    ~Maior resistência a todas as infecções bacterianas #Errado! O traço falciforme não confere uma vantagem contra todas as infecções bacterianas.
+    =Aumento da resistência à malária #Certo! O traço falciforme confere uma vantagem significativa na resistência à malária, uma vez que a forma heterozigota oferece proteção parcial contra a infecção por Plasmodium falciparum, o parasita causador da malária.
+    ~Melhor capacidade de transporte de oxigênio dos glóbulos vermelhos #Errado! Embora os portadores do traço falciforme possam ter uma capacidade de transporte de oxigênio diferente, essa não é a principal vantagem seletiva associada ao traço falciforme.
+}
+
+//[tag:facil][tag:aula]
+::Questão 3::
+A anemia falciforme é causada por uma variante estrutural específica na molécula de hemoglobina. Qual das alternativas a seguir melhor descreve esta variante?
+{
+    =Substituição de ácido glutâmico por valina na posição 6 da cadeia beta globina #Certo! A anemia falciforme é causada pela substituição de um ácido glutâmico por valina na posição 6 da cadeia beta globina, levando a uma alteração na estrutura da hemoglobina.
+    ~Substituição de ácido glutâmico por valina na posição 6 da cadeia alfa globina #Errado! A substituição ocorre na cadeia beta globina, não na alfa globina.
+    ~Deleção do gene da cadeia beta globina #Errado! A anemia falciforme não é causada por uma deleção do gene da cadeia beta globina, mas sim por uma mutação pontual.
+    ~Inserção de uma valina extra na posição 6 da cadeia beta globina #Errado! A mutação na anemia falciforme resulta na substituição de um aminoácido, não em uma inserção.
+}
+
+//[tag:facil][tag:aula]
+::Questão 4:: Assinale qual tipo de talassemia pode causar óbito fetal\:
+{
+    ~Doença da hemoglobina H #Errado! A doença da hemoglobina H não está associada ao óbito fetal, mas pode causar complicações de saúde significativas.
+    =Beta-talassemia major #Certo! A beta-talassemia major é a forma mais grave de talassemia e pode causar óbito fetal devido à anemia grave e complicações relacionadas.
+    ~Portador da Hemoglobina Bart #Errado! O portador da Hemoglobina Bart é uma condição associada à alfa-talassemia, que pode causar anemia grave, mas geralmente não resulta em óbito fetal.
+    ~Beta-talassemia minor #Errado! A beta-talassemia minor geralmente causa sintomas leves ou é assintomática e não está associada ao óbito fetal.
+}
+
+// Questões de Múltipla Escolha
+::Epidemiologia de Anemia Falciforme::
+Qual é a razão da maior incidência de anemia falciforme no Brasil?
+{
+    ~Maior número de afro-americanos#Incorreto\: Afro-americanos são mais prevalentes nos Estados Unidos, não no Brasil.
+    ~Maior número de africanos#Incorreto\: Embora haja uma população significativa de descendentes africanos, a resposta está relacionada à prevalência do traço falcêmico.
+    ~Maior número de indivíduos com traço falcêmico#Incorreto\: Embora muitos brasileiros possam ter o traço falcêmico, isso não explica diretamente a maior incidência da doença.
+    =Maior número de indivíduos com anemia falciforme#Correto\: A maior incidência de anemia falciforme no Brasil é devida ao maior número de indivíduos que efetivamente têm a doença.
+}
+
+::Genética da Anemia Falciforme::
+Qual é o tipo de herança da anemia falciforme?
+{
+    ~Autossômica dominante#Incorreto\: A anemia falciforme não se manifesta em heterozigotos.
+    =Autossômica recessiva#Correto\: A anemia falciforme manifesta-se quando um indivíduo herda duas cópias do gene mutado, uma de cada progenitor.
+    ~Ligada ao sexo#Incorreto\: A herança ligada ao sexo está relacionada aos cromossomos sexuais.
+    ~Ligada ao cromossomo X#Incorreto\: A anemia falciforme não é ligada ao cromossomo X, mas sim aos autossomos.
+}
+
+::Estrutura da Hemoglobina::
+Quais são as cadeias polipeptídicas que compõem a hemoglobina?
+{
+    =Duas cadeias de α-globina e duas cadeias de β-globina#Correto\: A hemoglobina A, a forma mais comum, é composta por duas cadeias de α-globina e duas cadeias de β-globina.
+    ~Duas cadeias de α-globina e uma cadeia de β-globina#Incorreto\: A hemoglobina A precisa de duas cadeias de β-globina para funcionar corretamente.
+    ~Três cadeias de α-globina e uma cadeia de β-globina#Incorreto\: A hemoglobina A é composta por duas cadeias de cada tipo.
+    ~Quatro cadeias de α-globina e quatro cadeias de β-globina#Incorreto\: Essa composição não corresponde à estrutura da hemoglobina A.
+}
+
+::Anemia Falciforme, Patogênese::
+Qual é o efeito da hemoglobina S no sangue desoxigenado?
+{
+    =Forma polímeros espessos que deformam as hemácias#Correto\: A hemoglobina S se polimeriza em condições de baixa oxigenação, levando à deformação das hemácias em forma de foice.
+    ~Forma polímeros finos que não deformam as hemácias#Incorreto\: Os polímeros formados pela hemoglobina S são espessos e causam deformação.
+    ~Reduz a solubilidade da hemoglobina#Incorreto\: A hemoglobina S reduz a solubilidade, mas a principal consequência é a formação de polímeros.
+    ~Aumenta a solubilidade da hemoglobina#Incorreto\: A hemoglobina S não aumenta a solubilidade; ela forma polímeros que deformam as células.
+}
+
+::Talassemia::
+Qual é o tipo de herança da talassemia alfa?
+{
+    ~Autossômica dominante#Incorreto\: A talassemia alfa não se manifesta em heterozigotos.
+    =Autossômica recessiva#Correto\: A talassemia alfa manifesta-se quando um indivíduo herda duas cópias do gene mutado, uma de cada progenitor.
+    ~Ligada ao sexo#Incorreto\: A herança ligada ao sexo está relacionada aos cromossomos sexuais.
+    ~Ligada ao cromossomo X#Incorreto\: A talassemia alfa não é ligada ao cromossomo X, mas sim aos autossomos.
+}
+
+::Genética da Talassemia::
+Qual é o mecanismo mais comum para a deleção de um dos genes de α-globina?
+{
+    =Alinhamento incorreto durante o pareamento homólogo e subsequente recombinação#Correto\: Este é o mecanismo mais comum que leva à deleção dos genes de α-globina.
+    ~Deleção de um gene de α-globina por mutação pontual#Incorreto\: Mutação pontual não é o mecanismo mais comum para a deleção.
+    ~Deleção de um gene de α-globina por mutação frameshift#Incorreto\: Mutação frameshift não é o mecanismo mais comum para a deleção.
+    ~Deleção de um gene de α-globina por mutação missense#Incorreto\: Mutação missense não causa deleção.
+}
+
+::Anemia Falciforme Tratamento::
+Qual é um dos tratamentos para a anemia falciforme?
+{
+    =Transfusão sanguínea#Correto\: Transfusões sanguíneas são usadas para tratar a anemia falciforme, fornecendo células vermelhas normais ao paciente.
+    ~Transplante de medula óssea#Incorreto\: Embora seja um tratamento potencial, é menos comum e mais arriscado que transfusões.
+    ~Quimioterapia com hidroxiuréia#Incorreto\: Hidroxiuréia é usada para aumentar a produção de hemoglobina fetal, mas não é uma quimioterapia.
+    ~Terapia de edição gênica com CRISPR-Cas9#Incorreto\: Embora promissora, a terapia de edição gênica ainda está em fase experimental para anemia falciforme.
+}
+
+::Epidemiologia de Hemoglobinopatias::
+Qual é a porcentagem da população mundial que é portadora de variantes genéticas clinicamente importantes de distúrbios da hemoglobina?
+{
+    ~1%#Incorreto\: A porcentagem de portadores é maior.
+    =5%#Correto\: Aproximadamente 5% da população mundial possui variantes genéticas clinicamente importantes de distúrbios da hemoglobina.
+    ~10%#Incorreto\: Este valor é superestimado.
+    ~20%#Incorreto\: Este valor é superestimado.
+}
+
+::Genética da Anemia Falciforme::
+Qual é a probabilidade de um filho ter anemia falciforme se o pai tem anemia falciforme e a mãe tem traço falcêmico?
+{
+    ~25%#Incorreto\: A probabilidade é maior.
+    =50%#Correto\: Há 50% de chance de um filho herdar uma cópia do gene falcêmico de cada pai, resultando em anemia falciforme.
+    ~75%#Incorreto\: A probabilidade é menor.
+    ~100%#Incorreto\: Há uma chance de 50% de o filho herdar o traço falcêmico da mãe.
+}
+
+::Estrutura da Hemoglobina::
+Quais são os dois resíduos conservados na estrutura da hemoglobina?
+{
+    =Phe42 e His92#Correto\: Esses resíduos são importantes para a estrutura e função da hemoglobina.
+    ~Phe42 e Leu92#Incorreto\: Leu92 não é um resíduo conservado na hemoglobina.
+    ~His42 e Phe92#Incorreto\: His42 não é um resíduo conservado na hemoglobina.
+    ~Leu42 e His92#Incorreto\: Leu42 não é um resíduo conservado na hemoglobina.
+}
